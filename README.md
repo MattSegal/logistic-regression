@@ -6,7 +6,7 @@ This module fits a logistic regression to a set of training data. The results of
 
 Here is a 1-D logistic function fit to some arbitrary data:
 
-![examplelogreg](https://cloud.githubusercontent.com/assets/12790824/9652021/c67add98-525a-11e5-86bb-45d9c52a55c2.GIF)
+![examplelogreg](https://cloud.githubusercontent.com/assets/12790824/10595595/d0a908c2-7725-11e5-9af6-741161630aaa.GIF)
 
 In this case, the training data could represent a students score on a previous test, and the result could be the probability of the student passing a future test.
 
