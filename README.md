@@ -25,6 +25,10 @@ To classify new data, use the hypothesis function:
 * this function takes a single data point and normalization info
 * returns likelihood as a value from 0 to 1
 
+#### Dependencies:
+* Matplotlib (Matrix Plot Library for Python)
+* NumPy (Numerical Python)
+
 #### Testing:
 Unit tests for use with py.test are contained within test_log_reg.py
 Although it is functional AFAIK, this module is a work in progress and more tests need to be written. 
